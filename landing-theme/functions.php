@@ -1,12 +1,14 @@
 <?php
-function invertir_en_acciones_assets() {
-  // Carga style.css del tema
-  wp_enqueue_style(
-    'invertir-en-acciones-style',
-    get_stylesheet_uri(),               // apunta a style.css en la raíz
-    array(),                           // sin dependencias
-    wp_get_theme()->get('Version')     // usa la versión del theme
-  );
+// functions.php
+
+// Encola tu estilo principal usando filemtime() para cache-busting.
+function landing_theme_scripts() {
+    wp_enqueue_style(
+        'landing-style',
+        get_template_directory_uri() . '/style.css',
+        [],
+        filemtime( get_template_directory() . '/style.css' )
+    );
 }
-add_action( 'wp_enqueue_scripts', 'invertir_en_acciones_assets' );
+add_action( 'wp_enqueue_scripts', 'landing_theme_scripts' );
 
