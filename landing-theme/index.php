@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ebook - Como invertir en Wall Street</title>
-      <link rel="stylesheet" href="./style.css"> 
 
-      <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
 <body>
     <main>
 
@@ -196,12 +187,7 @@
 
 </main> 
 
-<?php
-/**
- * footer.php
- * Pie de página del tema
- */
-?>
+
 
 <!-- Contacto Footer Personalizado -->
 <footer class="contacto-footer">
@@ -246,7 +232,7 @@
   </div>
 </footer>
 
-<?php get_footer(); ?>
+
 </body>
 </html>
 
