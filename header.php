@@ -1,7 +1,7 @@
 <?php
 /**
  * header.php
- * Cabecera de tu tema con SEO optimizado
+ * Cabecera de tu tema con SEO optimizado d
  */
 ?><!DOCTYPE html>
 <html <?php language_attributes(); ?>>
