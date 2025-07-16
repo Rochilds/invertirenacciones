@@ -26,10 +26,9 @@ get_header();
     </div>
     <div>
       <img
-        src="<?php echo get_template_directory_uri(); ?>/img/img-1.png"
-        alt="Portada del ebook Cómo Invertir en Wall Street"
-        class="hero-img"
-      >
+  src="<?php echo get_template_directory_uri(); ?>/img/img-1.png"
+  alt="Portada del ebook Cómo Invertir en Wall Street"
+  class="hero-img">
     </div>
   </section>
 
