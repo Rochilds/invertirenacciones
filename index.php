@@ -19,7 +19,8 @@ get_header();
         href="https://2spq2i-f3.myshopify.com/checkouts/cn/Z2NwLXVzLWVhc3QxOjAxSlpYSlJYMjJFS1JIOVg5QzlQUFJKNjRF?preview_theme_id=180368081214"
         class="cta-button"
         target="_blank"
-        rel="noopener noreferrer"
+        rel="noopener noreferrer" 
+        onclick="fbq('trackCustom', 'LP_ClickBuy');"
       >
         EMPEZAR A INVERTIR HOY
       </a>
@@ -60,7 +61,8 @@ get_header();
             href="https://2spq2i-f3.myshopify.com/checkouts/cn/Z2NwLXVzLWVhc3QxOjAxSlpYSlJYMjJFS1JIOVg5QzlQUFJKNjRF?preview_theme_id=180368081214"
             class="ebook-features__btn"
             target="_blank"
-            rel="noopener noreferrer"
+            rel="noopener noreferrer" 
+            onclick="fbq('trackCustom', 'LP_ClickBuy');"
           >
             🔥 ACCEDER AHORA - OFERTA LIMITADA
           </a>
@@ -136,7 +138,8 @@ get_header();
         href="https://2spq2i-f3.myshopify.com/checkouts/cn/Z2NwLXVzLWVhc3QxOjAxSlpYSlJYMjJFS1JIOVg5QzlQUFJKNjRF?preview_theme_id=180368081214"
         class="cta-green"
         target="_blank"
-        rel="noopener noreferrer"
+        rel="noopener noreferrer" 
+        onclick="fbq('trackCustom', 'LP_ClickBuy');"
       >
         CONSEGUÍ TU EBOOK AHORA
       </a>
@@ -168,7 +171,8 @@ get_header();
           href="https://2spq2i-f3.myshopify.com/checkouts/cn/Z2NwLXVzLWVhc3QxOjAxSlpYSlJYMjJFS1JIOVg5QzlQUFJKNjRF?preview_theme_id=180368081214"
           class="cta-green"
           target="_blank"
-          rel="noopener noreferrer"
+          rel="noopener noreferrer" 
+          onclick="fbq('trackCustom', 'LP_ClickBuy');"
         >
           ACCEDER AHORA A MI EBOOK
         </a>

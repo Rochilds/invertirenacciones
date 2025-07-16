@@ -125,7 +125,23 @@ fbq('track', 'PageView');
 <noscript><img height="1" width="1" style="display:none"
 src="https://www.facebook.com/tr?id=722266103917354&ev=PageView&noscript=1"
 /></noscript>
-<!-- End Meta Pixel Code -->
+
+
+<!-- cuando se visualisa el producto --> 
+
+<script>
+  fbq('track', 'ViewContent', {
+    content_name: 'Ebook Cómo Invertir en Wall Street',
+    content_category: 'Libros Digitales',
+    value: 15999.00,
+    currency: 'ARS'
+  });
+</script> 
+
+<!-- Cuando hacen clic en “Comprar ahora”: --> 
+
+
+
 
 
  <?php wp_head(); ?>
