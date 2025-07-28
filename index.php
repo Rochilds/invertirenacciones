@@ -168,7 +168,7 @@ get_header();
         <p><strong>¿Y si no me gusta?</strong><br>
         Te devolvemos el dinero si no aporta valor. Tenés 7 días.</p>
         <a
-          href="https://2spq2i-f3.myshopify.com/checkouts/cn/Z2NwLXVzLWVhc3QxOjAxSlpYSlJYMjJFS1JIOVg5QzlQUFJKNjRF?preview_theme_id=180368081214"
+          href="https://acciones.invertirenacciones.digital/checkouts/cn/hWN19Gh2vvbn7Cs19H0fTKDa"
           class="cta-green"
           target="_blank"
           rel="noopener noreferrer" 
