@@ -16,7 +16,7 @@ get_header();
       <p>Descubrí paso a paso cómo invertir en Wall Street, entender acciones, ETFs y estrategias reales — explicado en un español claro, sin tecnicismos.</p>
       <p><span class="emoji">💼</span>Perfecto si sos principiante o emprendedor <strong>con visión de futuro</strong>.</p>
       <a
-        href="https://2spq2i-f3.myshopify.com/checkouts/cn/Z2NwLXVzLWVhc3QxOjAxSlpYSlJYMjJFS1JIOVg5QzlQUFJKNjRF?preview_theme_id=180368081214"
+        href="https://acciones.invertirenacciones.digital/checkouts/cn/hWN19Gh2vvbn7Cs19H0fTKDa"
         class="cta-button"
         target="_blank"
         rel="noopener noreferrer" 
@@ -58,7 +58,7 @@ get_header();
         </div>
         <div class="chapter-button">
           <a
-            href="https://2spq2i-f3.myshopify.com/checkouts/cn/Z2NwLXVzLWVhc3QxOjAxSlpYSlJYMjJFS1JIOVg5QzlQUFJKNjRF?preview_theme_id=180368081214"
+            href="https://acciones.invertirenacciones.digital/checkouts/cn/hWN19Gh2vvbn7Cs19H0fTKDa"
             class="ebook-features__btn"
             target="_blank"
             rel="noopener noreferrer" 
@@ -135,7 +135,7 @@ get_header();
         </div>
       </div>
       <a
-        href="https://2spq2i-f3.myshopify.com/checkouts/cn/Z2NwLXVzLWVhc3QxOjAxSlpYSlJYMjJFS1JIOVg5QzlQUFJKNjRF?preview_theme_id=180368081214"
+        href="https://acciones.invertirenacciones.digital/checkouts/cn/hWN19Gh2vvbn7Cs19H0fTKDa"
         class="cta-green"
         target="_blank"
         rel="noopener noreferrer" 
