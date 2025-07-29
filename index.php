@@ -12,7 +12,7 @@ get_header();
  <!-- HERO -->
   <section class="hero">
     <div class="hero-content">
-      <h1>Invertir no es arriesgado. <br>Lo arriesgado es no saber cómo hacerlo.</h1>
+      <h1>NO NECESITÁS SUERTE. <br>NECESITÁS CONOCIMIENTO.</h1>
       <p>Descubrí paso a paso cómo invertir en Wall Street, entender acciones, ETFs y estrategias reales — explicado en un español claro, sin tecnicismos.</p>
       <p><span class="emoji">💼</span>Perfecto si sos principiante o emprendedor <strong>con visión de futuro</strong>.</p>
       <a
