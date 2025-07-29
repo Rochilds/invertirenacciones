@@ -9,29 +9,45 @@ get_header();
 
 <main>
 
-  <!-- HERO -->
-  <section class="hero">
-    <div class="hero-content">
-      <h1>Invertir no es arriesgado. <br>Lo arriesgado es no saber cómo hacerlo.</h1>
-      <p>Descubrí paso a paso cómo invertir en Wall Street, entender acciones, ETFs y estrategias reales — explicado en un español claro, sin tecnicismos.</p>
-      <p><span class="emoji">💼</span>Perfecto si sos principiante o emprendedor <strong>con visión de futuro</strong>.</p>
-      <a
-        href="https://acciones.invertirenacciones.digital/checkouts/cn/hWN19Gh2vvbn7Cs19H0fTKDa"
-        class="cta-button"
-        target="_blank"
-        rel="noopener noreferrer" 
-        onclick="fbq('trackCustom', 'LP_ClickBuy');"
-      >
-        EMPEZAR A INVERTIR HOY
-      </a>
+ <section class="hero-new">
+  <div class="hero-new-content">
+    <h1 class="hero-new-title">
+      NO NECESITÁS SUERTE.<br>
+      NECESITÁS CONOCIMIENTO.
+    </h1>
+    <p class="hero-new-subtitle">
+      Aprendé a invertir en Wall Street con una guía clara, probada y sin tecnicismos.
+    </p>
+    <div class="hero-new-text">
+      <p>
+        Descargá este eBook y descubrí cómo empezar con confianza,  
+        evitando errores comunes y aplicando estrategias que funcionan hoy.
+      </p>
+      <ul class="hero-new-checklist">
+        <li>✔️ Ideal si nunca invertiste.</li>
+      </ul>
+      <p class="hero-new-badge-small">
+        +1.500 personas ya lo están usando
+      </p>
     </div>
-    <div>
-      <img
-  src="<?php echo get_template_directory_uri(); ?>/img/img-1.png"
-  alt="Portada del ebook Cómo Invertir en Wall Street"
-  class="hero-img">
-    </div>
-  </section>
+    <a
+      href="https://acciones.invertirenacciones.digital/checkouts/cn/hWN19Gh2vvbn7Cs19H0fTKDa"
+      class="cta-button cta-button--primary hero-new-cta"
+      target="_blank" rel="noopener noreferrer"
+      onclick="fbq('trackCustom','LP_ClickBuy');"
+    >
+      ➔ QUIERO ACCEDER AL EBOOK AHORA
+    </a>
+  </div>
+  <div class="hero-new-image">
+    <img
+      src="<?php echo get_template_directory_uri(); ?>/img/hero-phone-2.png"
+      alt="Ebook Cómo invertir en Wall Street"
+      loading="lazy"
+    >
+  </div>
+</section>
+
 
   <!-- CAPÍTULOS -->
   <section class="chapters">
