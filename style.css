@@ -423,3 +423,94 @@
   background-color: #e6ac00;
 }
 
+/* === Sección Trust / Seguridad === */
+.trust-section {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 4rem 2rem;
+  background: #00264d;
+  color: #fff;
+  gap: 2rem;
+}
+
+.trust-section .container {
+  flex: 1;
+}
+
+.trust-title {
+  display: flex;
+  align-items: center;
+  font-size: 2rem;
+  margin-bottom: 2rem;
+}
+
+.trust-title-icon {
+  width: 2.5rem;
+  margin-right: 0.75rem;
+}
+
+.trust-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.trust-item {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 1.5rem;
+}
+
+.trust-icon {
+  width: 2rem;
+  margin-right: 1rem;
+  flex-shrink: 0;
+}
+
+.trust-item h3 {
+  font-size: 1.125rem;
+  margin: 0 0 0.25rem;
+}
+
+.trust-item p {
+  margin: 0;
+  line-height: 1.4;
+  opacity: 0.9;
+}
+
+.trust-cta {
+  margin-top: 2.5rem;
+}
+
+.btn-trust {
+  display: inline-block;
+  background: #007bff;
+  color: #fff;
+  padding: 0.75rem 1.5rem;
+  font-size: 1rem;
+  border-radius: 0.5rem;
+  text-decoration: none;
+  transition: background 0.2s;
+}
+
+.btn-trust:hover {
+  background: #0056b3;
+}
+
+.trust-note {
+  margin-top: 1rem;
+  opacity: 0.85;
+  font-size: 0.95rem;
+}
+
+.trust-image {
+  flex: 0 0 auto;
+}
+
+.trust-image img {
+  max-width: 300px;
+  width: 100%;
+  border-radius: 0.5rem;
+}
+

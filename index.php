@@ -192,11 +192,14 @@ get_header();
       target="_blank" rel="noopener noreferrer"
       onclick="fbq('trackCustom','LP_ClickBuy');"
     >
-      DESCARGAR AHORA Y EMPEZAR HOY
+      DESCARGA AHORA Y EMPiEZA HOY
     </a>
 
   </div>
 </section> 
+
+
+<!-- seccion testimonio -->
 
 <section class="testimonials2-section">
   <div class="container testimonials2-container">
@@ -286,11 +289,68 @@ get_header();
       target="_blank" rel="noopener noreferrer"
       onclick="fbq('trackCustom','LP_ClickBuy');"
     >
-      Quiero mi eBook ahora
+      Quiero mi Ebook ahora
     </a>
 
   </div>
+</section> 
+
+<!-- seccion compras  --> 
+
+<section class="trust-section">
+  <div class="trust-content container">
+    <h2 class="trust-title">
+      <img src="<?php echo get_template_directory_uri(); ?>/img/icon-shield.png" alt="Seguridad" class="trust-title-icon">
+      Tu compra es segura, rápida y sin riesgo
+    </h2>
+
+    <ul class="trust-list">
+      <li class="trust-item">
+        <img src="<?php echo get_template_directory_uri(); ?>/img/icon-mail.png" alt="" class="trust-icon">
+        <div>
+          <h3>Entrega inmediata</h3>
+          <p>Recibís el eBook al instante en tu correo.</p>
+        </div>
+      </li>
+      <li class="trust-item">
+        <img src="<?php echo get_template_directory_uri(); ?>/img/icon-lock.png" alt="" class="trust-icon">
+        <div>
+          <h3>Pago 100% protegido</h3>
+          <p>Usamos plataformas verificadas con cifrado seguro.</p>
+        </div>
+      </li>
+      <li class="trust-item">
+        <img src="<?php echo get_template_directory_uri(); ?>/img/icon-handshake.png" alt="" class="trust-icon">
+        <div>
+          <h3>Soporte humano</h3>
+          <p>Te respondemos por WhatsApp o correo si necesitas ayuda.</p>
+        </div>
+      </li>
+      <li class="trust-item">
+        <img src="<?php echo get_template_directory_uri(); ?>/img/icon-check.png" alt="" class="trust-icon">
+        <div>
+          <h3>Garantía 7 días</h3>
+          <p>Si no te aporta valor, te devolvemos el 100%. Sin vueltas.</p>
+        </div>
+      </li>
+    </ul>
+
+    <div class="trust-cta">
+      <a href="https://2spq2i-f3.myshopify.com/checkouts/…" class="btn-trust">
+        Descargá ahora con confianza
+      </a>
+      <p class="trust-note">
+        Miles ya confiaron. Vos también podés empezar hoy sin preocuparte.
+      </p>
+    </div>
+  </div>
+
+  <div class="trust-image">
+    <img src="<?php echo get_template_directory_uri(); ?>/img/person-trust.png" alt="Cliente satisfecho">
+  </div>
 </section>
+
+
 
 
 
