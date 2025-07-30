@@ -514,3 +514,62 @@
   border-radius: 0.5rem;
 }
 
+/* === Sección Final CTA === */
+.final-cta {
+  background: #00264d;
+  color: #fff;
+  padding: 4rem 2rem;
+  text-align: center;
+}
+
+.final-cta-title {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.final-cta-subtitle {
+  font-size: 1.125rem;
+  opacity: 0.9;
+  margin-bottom: 2rem;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.final-cta-features {
+  list-style: none;
+  padding: 0;
+  margin: 0 auto 2.5rem;
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+
+.final-cta-features li {
+  display: flex;
+  align-items: center;
+  font-size: 1rem;
+}
+
+.feature-icon {
+  width: 1.75rem;
+  margin-right: 0.5rem;
+  flex-shrink: 0;
+}
+
+.btn-final-cta {
+  display: inline-block;
+  background: #ffb600;
+  color: #00264d;
+  padding: 1rem 2rem;
+  font-size: 1.125rem;
+  border-radius: 0.5rem;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background 0.2s;
+}
+
+.btn-final-cta:hover {
+  background: #e6a500;
+}

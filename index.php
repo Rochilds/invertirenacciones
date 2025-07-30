@@ -348,7 +348,46 @@ get_header();
   <div class="trust-image">
     <img src="<?php echo get_template_directory_uri(); ?>/img/person-trust.png" alt="Cliente satisfecho">
   </div>
+</section> 
+
+<!-- seccion Final  --> 
+
+<section class="final-cta">
+  <div class="final-cta-content container">
+    <h2 class="final-cta-title">
+      Estás a un clic de invertir con claridad y seguridad
+    </h2>
+    <p class="final-cta-subtitle">
+      No postergues más tu libertad financiera. Esta guía es el primer paso para empezar a invertir de forma simple, segura y sin depender de nadie.
+    </p>
+
+    <ul class="final-cta-features">
+      <li>
+        <img src="<?php echo get_template_directory_uri(); ?>/img/icon-check-green.png" alt="" class="feature-icon">
+        <span>Garantía 7 días</span>
+      </li>
+      <li>
+        <img src="<?php echo get_template_directory_uri(); ?>/img/icon-book-blue.png" alt="" class="feature-icon">
+        <span>Guía paso a paso</span>
+      </li>
+      <li>
+        <img src="<?php echo get_template_directory_uri(); ?>/img/icon-users-blue.png" alt="" class="feature-icon">
+        <span>+1.500 personas ya lo usan</span>
+      </li>
+    </ul>
+
+    <a
+      href="https://2spq2i-f3.myshopify.com/checkouts/…" 
+      class="btn-final-cta"
+      onclick="fbq('trackCustom','LP_ClickBuy');"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      Quiero acceder al Ebook ahora
+    </a>
+  </div>
 </section>
+
 
 
 
