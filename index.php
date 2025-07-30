@@ -196,7 +196,102 @@ get_header();
     </a>
 
   </div>
+</section> 
+
+<section class="testimonials2-section">
+  <div class="container testimonials2-container">
+
+    <h2 class="testimonials2-title">Lo que dicen quienes ya lo leyeron</h2>
+    <p class="testimonials2-subtitle">
+      Más de 1.500 personas ya descargaron esta guía. Estas son algunas de sus experiencias reales:
+    </p>
+
+    <div class="testimonials2-grid">
+      <!-- Testimonio 1 -->
+      <div class="testimonial2-card">
+        <div class="testimonial2-quote">
+          <img
+            src="<?php echo get_template_directory_uri(); ?>/img/icon-quote.png"
+            alt="Comillas"
+          >
+        </div>
+        <p class="testimonial2-text">
+          “Este ebook me cambió totalmente la visión. Pensaba que invertir era solo para ricos. Ahora entiendo cómo hacerlo desde cero.”
+        </p>
+        <div class="testimonial2-author">
+          <img
+            src="<?php echo get_template_directory_uri(); ?>/img/face-carolina.jpg"
+            alt="Carolina M."
+            class="testimonial2-photo"
+          >
+          <div>
+            <p class="testimonial2-name">Carolina M.</p>
+            <p class="testimonial2-location">Buenos Aires</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Testimonio 2 -->
+      <div class="testimonial2-card">
+        <div class="testimonial2-quote">
+          <img
+            src="<?php echo get_template_directory_uri(); ?>/img/icon-quote.png"
+            alt="Comillas"
+          >
+        </div>
+        <p class="testimonial2-text">
+          “La comparación entre Buffett y el "lobo" de Wall Street te hace pensar distinto. Es lo que necesitaba para cambiar mi mentalidad.”
+        </p>
+        <div class="testimonial2-author">
+          <img
+            src="<?php echo get_template_directory_uri(); ?>/img/face-juan.jpg"
+            alt="Juan P."
+            class="testimonial2-photo"
+          >
+          <div>
+            <p class="testimonial2-name">Juan P.</p>
+            <p class="testimonial2-location">Mendoza</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Testimonio 3 -->
+      <div class="testimonial2-card">
+        <div class="testimonial2-quote">
+          <img
+            src="<?php echo get_template_directory_uri(); ?>/img/icon-quote.png"
+            alt="Comillas"
+          >
+        </div>
+        <p class="testimonial2-text">
+          “¡Me encantó! Todo super claro, ideal si estás comenzando. Ahora invierto en acciones con mucha más seguridad.”
+        </p>
+        <div class="testimonial2-author">
+          <img
+            src="<?php echo get_template_directory_uri(); ?>/img/face-florencia.jpg"
+            alt="Florencia R."
+            class="testimonial2-photo"
+          >
+          <div>
+            <p class="testimonial2-name">Florencia R.</p>
+            <p class="testimonial2-location">Rosario</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <a
+      href="https://2spq2i-f3.myshopify.com/checkouts/..."
+      class="testimonials2-cta"
+      target="_blank" rel="noopener noreferrer"
+      onclick="fbq('trackCustom','LP_ClickBuy');"
+    >
+      Quiero mi eBook ahora
+    </a>
+
+  </div>
 </section>
+
 
 
 
