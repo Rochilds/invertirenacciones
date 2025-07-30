@@ -119,7 +119,85 @@ get_header();
     </div>
 
   </div>
+</section> 
+
+<!-- Este ebboo es para vos -->
+
+<section class="audience2-section">
+  <div class="container audience2-container">
+
+    <h2 class="audience2-title">Este eBook es para vos?</h2>
+
+    <ul class="audience2-list">
+      <li>
+        <span class="audience2-icon">
+          <img
+            src="<?php echo get_template_directory_uri(); ?>/img/icon-check-circle.png"
+            alt="Check"
+          >
+        </span>
+        Si querés que tu plata trabaje por vos, pero no sabés por dónde empezar
+      </li>
+      <li>
+        <span class="audience2-icon">
+          <img
+            src="<?php echo get_template_directory_uri(); ?>/img/icon-check-circle.png"
+            alt="Check"
+          >
+        </span>
+        Si te gustaría invertir como los grandes, pero con una guía clara y en español.
+      </li>
+      <li>
+        <span class="audience2-icon">
+          <img
+            src="<?php echo get_template_directory_uri(); ?>/img/icon-check-circle.png"
+            alt="Check"
+          >
+        </span>
+        Si buscás libertad financiera sin caer en promesas vacías.
+      </li>
+      <li>
+        <span class="audience2-icon">
+          <img
+            src="<?php echo get_template_directory_uri(); ?>/img/icon-check-circle.png"
+            alt="Check"
+          >
+        </span>
+        Si te frena el miedo, la confusión o la sobreinformación.
+      </li>
+      <li>
+        <span class="audience2-icon">
+          <img
+            src="<?php echo get_template_directory_uri(); ?>/img/icon-check-circle.png"
+            alt="Check"
+          >
+        </span>
+        Si querés aprender a invertir paso a paso, desde cero.
+      </li>
+    </ul>
+
+    <p class="audience2-note">
+      <span class="audience2-lightbulb">
+        <img
+          src="<?php echo get_template_directory_uri(); ?>/img/icon-lightbulb.png"
+          alt="Idea"
+        >
+      </span>
+      Miles de personas ya lo descargaron. ¿Y vos?
+    </p>
+
+    <a
+      href="https://2spq2i-f3.myshopify.com/checkouts/cn/Z2NwLXVzLWVhc3QxOjAxSlpYSlJYMjJFS1JIOVg5QzlQUFJKNjRF?preview_theme_id=180368081214"
+      class="audience2-cta"
+      target="_blank" rel="noopener noreferrer"
+      onclick="fbq('trackCustom','LP_ClickBuy');"
+    >
+      DESCARGAR AHORA Y EMPEZAR HOY
+    </a>
+
+  </div>
 </section>
+
 
 
 

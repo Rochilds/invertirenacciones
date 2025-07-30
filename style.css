@@ -226,4 +226,98 @@
   .benefits-image {
     margin-bottom: 2rem;
   }
+} 
+
+/* — Sección “Este eBook es para vos?” — */
+.audience2-section {
+  background-color: #00264d;
+  color: #ffffff;
+  padding: 4rem 2rem;
 }
+.audience2-container {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.audience2-title {
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 2rem;
+}
+
+.audience2-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.audience2-list li {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 1.5rem;
+  font-size: 1.0625rem;
+  line-height: 1.6;
+}
+.audience2-icon {
+  flex: 0 0 32px;
+  margin-right: 1rem;
+}
+.audience2-icon img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.audience2-note {
+  display: flex;
+  align-items: center;
+  font-size: 1rem;
+  margin: 2.5rem 0 1.5rem;
+}
+.audience2-lightbulb {
+  flex: 0 0 32px;
+  margin-right: 0.75rem;
+}
+.audience2-lightbulb img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.audience2-cta {
+  display: inline-block;
+  background-color: #ffc107;
+  color: #00264d;
+  font-size: 1.125rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  padding: 1rem 2rem;
+  border-radius: 2rem;
+  text-decoration: none;
+  transition: background-color 0.3s;
+}
+.audience2-cta:hover {
+  background-color: #e6ac00;
+}
+
+/* Responsive móvil */
+@media (max-width: 600px) {
+  .audience2-container {
+    text-align: center;
+  }
+  .audience2-list li {
+    justify-content: center;
+    text-align: left;
+  }
+  .audience2-icon {
+    margin-right: 0.5rem;
+  }
+  .audience2-note {
+    justify-content: center;
+    text-align: center;
+  }
+  .audience2-cta {
+    width: 100%;
+  }
+}
+
