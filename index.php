@@ -39,7 +39,88 @@ get_header();
       loading="lazy"
     >
   </div>
+</section> 
+
+<!-- Que vas a lograr con esta guia -->
+
+<section class="benefits-section">
+  <div class="container benefits-container">
+
+    <h2 class="benefits-title">¿Qué vas a lograr con esta guía?</h2>
+
+    <div class="benefits-content">
+      <!-- Lista de beneficios -->
+      <ul class="benefits-list">
+        <li>
+          <span class="benefit-icon">
+            <img
+              src="<?php echo get_template_directory_uri(); ?>/img/icon-mindset.png"
+              alt="Mentalidad Buffett"
+            >
+          </span>
+          <p class="benefit-text">
+            Invertir con la mentalidad de Warren Buffett, incluso si estás empezando
+          </p>
+        </li>
+        <li>
+          <span class="benefit-icon">
+            <img
+              src="<?php echo get_template_directory_uri(); ?>/img/icon-strategy.png"
+              alt="Estrategia de detección"
+            >
+          </span>
+          <p class="benefit-text">
+            Crear una estrategia para detectar acciones con potencial real
+          </p>
+        </li>
+        <li>
+          <span class="benefit-icon">
+            <img
+              src="<?php echo get_template_directory_uri(); ?>/img/icon-emotions.png"
+              alt="Errores emocionales"
+            >
+          </span>
+          <p class="benefit-text">
+            Evitar los errores emocionales que arruinan decisiones
+          </p>
+        </li>
+        <li>
+          <span class="benefit-icon">
+            <img
+              src="<?php echo get_template_directory_uri(); ?>/img/icon-crisis.png"
+              alt="Aprovechar crisis"
+            >
+          </span>
+          <p class="benefit-text">
+            Aprovechar las crisis como oportunidad (sin entrar en pánico)
+          </p>
+        </li>
+      </ul>
+
+      <!-- Imagen lateral -->
+      <div class="benefits-image">
+        <img
+          src="<?php echo get_template_directory_uri(); ?>/img/hero-phone2.png"
+          alt="Portada Cómo empezar a invertir en acciones"
+          loading="lazy"
+        >
+      </div>
+    </div>
+
+    <!-- Badge inferior -->
+    <div class="benefits-badge">
+      <span class="badge-icon">
+        <img
+          src="<?php echo get_template_directory_uri(); ?>/img/icon-check.png"
+          alt="Check"
+        >
+      </span>
+      <span class="badge-text">+1.500 personas ya lo descargaron</span>
+    </div>
+
+  </div>
 </section>
+
 
 
 </main>
