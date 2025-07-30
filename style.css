@@ -573,3 +573,126 @@
 .btn-final-cta:hover {
   background: #e6a500;
 }
+
+/* ======= Footer “¿Dudas o consultas?” ======= */
+.contacto-footer {
+  background: #0e1b3a; /* oscuro */
+  color: #fff;
+  padding: 80px 20px 40px;
+}
+.contacto-inner {
+  max-width: 900px;
+  margin: 0 auto;
+  text-align: center;
+}
+.contacto-title {
+  font-size: 2.25rem;
+  line-height: 1.2;
+  margin-bottom: 30px;
+}
+.contacto-title span {
+  display: block;
+  font-weight: 400;
+}
+
+/* WhatsApp button */
+.btn-whatsapp {
+  display: inline-flex;
+  align-items: center;
+  background: #25d366;
+  color: #fff;
+  font-size: 1rem;
+  font-weight: bold;
+  padding: 12px 24px;
+  border-radius: 6px;
+  text-decoration: none;
+  margin-bottom: 30px;
+  transition: background 0.2s;
+}
+.btn-whatsapp:hover {
+  background: #1ebe5c;
+}
+.whatsapp-icon {
+  width: 24px;
+  height: 24px;
+  margin-right: 10px;
+}
+
+/* Redes sociales */
+.footer-social {
+  margin-bottom: 20px;
+}
+.footer-social a {
+  display: inline-block;
+  margin: 0 8px;
+}
+
+
+/* Texto “seguinos” */
+.footer-follow {
+  font-size: 0.95rem;
+  color: #d1d9e3;
+  margin-bottom: 30px;
+}
+
+/* Copyright */
+.footer-copy {
+  font-size: 0.9rem;
+  color: #a8b0bf;
+  margin-top: 10px;
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+  .contacto-title {
+    font-size: 1.8rem;
+  }
+  .btn-whatsapp {
+    padding: 10px 20px;
+    font-size: 0.95rem;
+  }
+  .footer-social img {
+    width: 28px;
+    height: 28px;
+  } 
+
+/* se agrego nuevo p ara ver el formato movil de la seccion compras  */
+  @media (max-width: 768px) {
+  .confianza-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .confianza-items {
+    flex-direction: column;
+    gap: 1.5rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .confianza-items .item {
+    justify-content: center;
+  }
+
+  .confianza-items .item h3,
+  .confianza-items .item p {
+    text-align: left; /* Si prefieres que el texto interno quede alineado a la izquierda */
+  }
+
+  .cta-descarga {
+    width: 100%;
+    max-width: 300px;
+    text-align: center;
+    margin: 0 auto 1.5rem;
+  }
+
+  .confianza-texto {
+    margin-bottom: 1.5rem;
+  }
+
+  .confianza-img {
+    width: 80%;
+    margin: 0 auto;
+  }
+}
