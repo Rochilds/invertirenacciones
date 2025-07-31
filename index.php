@@ -223,7 +223,7 @@ get_header();
         </p>
         <div class="testimonial2-author">
           <img
-            src="<?php echo get_template_directory_uri(); ?>/img/face-carolina.jpg"
+            src="<?php echo get_template_directory_uri(); ?>/img/face-carolina.png"
             alt="Carolina M."
             class="testimonial2-photo"
           >
@@ -247,7 +247,7 @@ get_header();
         </p>
         <div class="testimonial2-author">
           <img
-            src="<?php echo get_template_directory_uri(); ?>/img/face-juan.jpg"
+            src="<?php echo get_template_directory_uri(); ?>/img/face-juan.png"
             alt="Juan P."
             class="testimonial2-photo"
           >
@@ -271,7 +271,7 @@ get_header();
         </p>
         <div class="testimonial2-author">
           <img
-            src="<?php echo get_template_directory_uri(); ?>/img/face-florencia.jpg"
+            src="<?php echo get_template_directory_uri(); ?>/img/face-florencia.png"
             alt="Florencia R."
             class="testimonial2-photo"
           >
@@ -289,7 +289,7 @@ get_header();
       target="_blank" rel="noopener noreferrer"
       onclick="fbq('trackCustom','LP_ClickBuy');"
     >
-      Quiero mi Ebook ahora
+      QUIERO MI EBOOK AHORA
     </a>
 
   </div>
@@ -342,7 +342,7 @@ get_header();
       onclick="fbq('trackCustom','LP_ClickBuy');"
       target="_blank" rel="noopener noreferrer"
     >
-      Descargá ahora con confianza
+      DESCARGA AHORA CON CONFIANZA
     </a>
 
     <p class="confianza-note">
