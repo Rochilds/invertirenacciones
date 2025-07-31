@@ -223,7 +223,7 @@ get_header();
         </p>
         <div class="testimonial2-author">
           <img
-            src="<?php echo get_template_directory_uri(); ?>/img/face-carolina.png"
+            src="<?php echo get_template_directory_uri(); ?>/img/img-8.jpeg"
             alt="Carolina M."
             class="testimonial2-photo"
           >
@@ -247,7 +247,7 @@ get_header();
         </p>
         <div class="testimonial2-author">
           <img
-            src="<?php echo get_template_directory_uri(); ?>/img/face-juan.png"
+            src="<?php echo get_template_directory_uri(); ?>/img/img-9.jpeg"
             alt="Juan P."
             class="testimonial2-photo"
           >
@@ -271,7 +271,7 @@ get_header();
         </p>
         <div class="testimonial2-author">
           <img
-            src="<?php echo get_template_directory_uri(); ?>/img/face-florencia.png"
+            src="<?php echo get_template_directory_uri(); ?>/img/img-10.jpeg"
             alt="Florencia R."
             class="testimonial2-photo"
           >
