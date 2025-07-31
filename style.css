@@ -423,96 +423,111 @@
   background-color: #e6ac00;
 }
 
-/* === Sección Trust / Seguridad === */
-.trust-section {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  padding: 4rem 2rem;
-  background: #00264d;
+/* === Sección "Tu compra es segura" === */
+.confianza {
+  background-color: #00264d;
   color: #fff;
-  gap: 2rem;
+  padding: 4rem 1rem;
 }
 
-.trust-section .container {
-  flex: 1;
+.confianza-inner {
+  max-width: 1200px;
+  margin: 0 auto;
 }
 
-.trust-title {
+.confianza-title {
   display: flex;
   align-items: center;
   font-size: 2rem;
   margin-bottom: 2rem;
+  gap: 0.5rem;
 }
 
-.trust-title-icon {
-  width: 2.5rem;
-  margin-right: 0.75rem;
+.confianza-icon {
+  font-size: 2.5rem;
 }
 
-.trust-list {
-  list-style: none;
-  margin: 0;
-  padding: 0;
+.confianza-items {
+  display: flex;
+  gap: 2rem;
+  flex-wrap: wrap;
+  margin-bottom: 2rem;
 }
 
-.trust-item {
+.confianza-item {
   display: flex;
   align-items: flex-start;
-  margin-bottom: 1.5rem;
+  gap: 1rem;
+  flex: 1 1 250px;
 }
 
-.trust-icon {
-  width: 2rem;
-  margin-right: 1rem;
+.confianza-item__icon {
+  width: 2.5rem;
   flex-shrink: 0;
 }
 
-.trust-item h3 {
+.confianza-item__text h3 {
   font-size: 1.125rem;
-  margin: 0 0 0.25rem;
+  margin-bottom: 0.25rem;
 }
 
-.trust-item p {
-  margin: 0;
+.confianza-item__text p {
+  font-size: 0.95rem;
   line-height: 1.4;
-  opacity: 0.9;
 }
 
-.trust-cta {
-  margin-top: 2.5rem;
-}
-
-.btn-trust {
+.confianza-cta {
   display: inline-block;
-  background: #007bff;
+  background-color: #007bff;
   color: #fff;
-  padding: 0.75rem 1.5rem;
   font-size: 1rem;
+  font-weight: bold;
+  padding: 0.75rem 1.5rem;
   border-radius: 0.5rem;
   text-decoration: none;
-  transition: background 0.2s;
+  margin-bottom: 1.5rem;
 }
 
-.btn-trust:hover {
-  background: #0056b3;
+.confianza-note {
+  font-size: 0.9rem;
+  opacity: 0.9;
+  margin-bottom: 2rem;
 }
 
-.trust-note {
-  margin-top: 1rem;
-  opacity: 0.85;
-  font-size: 0.95rem;
-}
-
-.trust-image {
-  flex: 0 0 auto;
-}
-
-.trust-image img {
-  max-width: 300px;
-  width: 100%;
+.confianza-image img {
+  max-width: 100%;
+  height: auto;
   border-radius: 0.5rem;
 }
+
+/* === Ajustes para pantallas pequeñas === */
+@media (max-width: 768px) {
+  .confianza-inner {
+    text-align: center;
+  }
+  .confianza-title {
+    justify-content: center;
+  }
+  .confianza-items {
+    flex-direction: column;
+    align-items: center;
+  }
+  .confianza-item {
+    justify-content: center;
+    text-align: left;
+    max-width: 320px;
+  }
+  .confianza-cta {
+    width: 100%;
+    max-width: 300px;
+    margin: 0 auto 1rem;
+  }
+  .confianza-image {
+    margin: 0 auto;
+    width: 80%;
+  }
+}
+
 
 /* === Sección Final CTA === */
 .final-cta {
@@ -656,43 +671,3 @@
     height: 28px;
   } 
 
-/* se agrego nuevo p ara ver el formato movil de la seccion compras  */
-  @media (max-width: 768px) {
-  .confianza-container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
-  }
-
-  .confianza-items {
-    flex-direction: column;
-    gap: 1.5rem;
-    margin-bottom: 1.5rem;
-  }
-
-  .confianza-items .item {
-    justify-content: center;
-  }
-
-  .confianza-items .item h3,
-  .confianza-items .item p {
-    text-align: left; /* Si prefieres que el texto interno quede alineado a la izquierda */
-  }
-
-  .cta-descarga {
-    width: 100%;
-    max-width: 300px;
-    text-align: center;
-    margin: 0 auto 1.5rem;
-  }
-
-  .confianza-texto {
-    margin-bottom: 1.5rem;
-  }
-
-  .confianza-img {
-    width: 80%;
-    margin: 0 auto;
-  }
-}

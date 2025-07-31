@@ -297,58 +297,65 @@ get_header();
 
 <!-- seccion compras  --> 
 
-<section class="trust-section">
-  <div class="trust-content container">
-    <h2 class="trust-title">
-      <img src="<?php echo get_template_directory_uri(); ?>/img/icon-shield.png" alt="Seguridad" class="trust-title-icon">
+<section class="confianza">
+  <div class="confianza-inner">
+
+    <h2 class="confianza-title">
+      <span class="confianza-icon">🛡️</span>
       Tu compra es segura, rápida y sin riesgo
     </h2>
 
-    <ul class="trust-list">
-      <li class="trust-item">
-        <img src="<?php echo get_template_directory_uri(); ?>/img/icon-mail.png" alt="" class="trust-icon">
-        <div>
+    <div class="confianza-items">
+      <div class="confianza-item">
+        <img class="confianza-item__icon" src="<?php echo get_template_directory_uri(); ?>/img/icon-mail-white.png" alt="Entrega inmediata">
+        <div class="confianza-item__text">
           <h3>Entrega inmediata</h3>
           <p>Recibís el eBook al instante en tu correo.</p>
         </div>
-      </li>
-      <li class="trust-item">
-        <img src="<?php echo get_template_directory_uri(); ?>/img/icon-lock.png" alt="" class="trust-icon">
-        <div>
+      </div>
+      <div class="confianza-item">
+        <img class="confianza-item__icon" src="<?php echo get_template_directory_uri(); ?>/img/icon-lock-white.png" alt="Pago 100% protegido">
+        <div class="confianza-item__text">
           <h3>Pago 100% protegido</h3>
           <p>Usamos plataformas verificadas con cifrado seguro.</p>
         </div>
-      </li>
-      <li class="trust-item">
-        <img src="<?php echo get_template_directory_uri(); ?>/img/icon-handshake.png" alt="" class="trust-icon">
-        <div>
+      </div>
+      <div class="confianza-item">
+        <img class="confianza-item__icon" src="<?php echo get_template_directory_uri(); ?>/img/icon-handshake-white.png" alt="Soporte humano">
+        <div class="confianza-item__text">
           <h3>Soporte humano</h3>
           <p>Te respondemos por WhatsApp o correo si necesitas ayuda.</p>
         </div>
-      </li>
-      <li class="trust-item">
-        <img src="<?php echo get_template_directory_uri(); ?>/img/icon-check.png" alt="" class="trust-icon">
-        <div>
+      </div>
+      <div class="confianza-item">
+        <img class="confianza-item__icon" src="<?php echo get_template_directory_uri(); ?>/img/icon-check-white.png" alt="Garantía 7 días">
+        <div class="confianza-item__text">
           <h3>Garantía 7 días</h3>
           <p>Si no te aporta valor, te devolvemos el 100%. Sin vueltas.</p>
         </div>
-      </li>
-    </ul>
-
-    <div class="trust-cta">
-      <a href="https://2spq2i-f3.myshopify.com/checkouts/…" class="btn-trust">
-        Descargá ahora con confianza
-      </a>
-      <p class="trust-note">
-        Miles ya confiaron. Vos también podés empezar hoy sin preocuparte.
-      </p>
+      </div>
     </div>
-  </div>
 
-  <div class="trust-image">
-    <img src="<?php echo get_template_directory_uri(); ?>/img/person-trust.png" alt="Cliente satisfecho">
+    <a
+      href="https://2spq2i-f3.myshopify.com/checkouts/…"
+      class="confianza-cta"
+      onclick="fbq('trackCustom','LP_ClickBuy');"
+      target="_blank" rel="noopener noreferrer"
+    >
+      Descargá ahora con confianza
+    </a>
+
+    <p class="confianza-note">
+      Miles ya confiaron. Vos también podés empezar hoy sin preocuparte.
+    </p>
+
+    <div class="confianza-image">
+      <img src="<?php echo get_template_directory_uri(); ?>/img/img-persona.png" alt="Persona con eBook en mano">
+    </div>
+
   </div>
-</section> 
+</section>
+
 
 <!-- seccion Final  --> 
 
