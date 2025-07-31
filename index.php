@@ -360,40 +360,44 @@ get_header();
 <!-- seccion Final  --> 
 
 <section class="final-cta">
-  <div class="final-cta-content container">
-    <h2 class="final-cta-title">
-      Estás a un clic de invertir con claridad y seguridad
+  <div class="final-cta__inner">
+
+    <h2 class="final-cta__title">
+      Estás a un clic de invertir<br>
+      con claridad y seguridad
     </h2>
-    <p class="final-cta-subtitle">
+
+    <p class="final-cta__subtitle">
       No postergues más tu libertad financiera. Esta guía es el primer paso para empezar a invertir de forma simple, segura y sin depender de nadie.
     </p>
 
-    <ul class="final-cta-features">
+    <ul class="final-cta__list">
       <li>
-        <img src="<?php echo get_template_directory_uri(); ?>/img/icon-check-green.png" alt="" class="feature-icon">
+        <img src="<?php echo get_template_directory_uri(); ?>/img/icon-check-green.png" alt="Garantía 7 días">
         <span>Garantía 7 días</span>
       </li>
       <li>
-        <img src="<?php echo get_template_directory_uri(); ?>/img/icon-book-blue.png" alt="" class="feature-icon">
+        <img src="<?php echo get_template_directory_uri(); ?>/img/icon-book-blue.png" alt="Guía paso a paso">
         <span>Guía paso a paso</span>
       </li>
       <li>
-        <img src="<?php echo get_template_directory_uri(); ?>/img/icon-users-blue.png" alt="" class="feature-icon">
+        <img src="<?php echo get_template_directory_uri(); ?>/img/icon-people-blue.png" alt="+1.500 personas ya lo usan">
         <span>+1.500 personas ya lo usan</span>
       </li>
     </ul>
 
     <a
-      href="https://2spq2i-f3.myshopify.com/checkouts/…" 
-      class="btn-final-cta"
+      href="https://2spq2i-f3.myshopify.com/checkouts/…"
+      class="final-cta__button"
       onclick="fbq('trackCustom','LP_ClickBuy');"
-      target="_blank"
-      rel="noopener noreferrer"
+      target="_blank" rel="noopener noreferrer"
     >
-      Quiero acceder al Ebook ahora
+      Quiero acceder al eBook ahora
     </a>
+
   </div>
 </section>
+
 
 
 
