@@ -24,7 +24,7 @@ get_header();
       <small>personas ya lo descargaron</small>
     </div>
     <a
-      href="https://2spq2i-f3.myshopify.com/checkouts/cn/Z2NwLXVzLWVhc3QxOjAxSlpYSlJYMjJFS1JIOVg5QzlQUFJKNjRF?preview_theme_id=180368081214"
+      href="https://acciones.invertirenacciones.digital/checkouts/cn/hWN19Gh2vvbn7Cs19H0fTKDa"
       class="hero-cta"
       target="_blank" rel="noopener noreferrer"
       onclick="fbq('trackCustom','LP_ClickBuy');"
@@ -187,7 +187,7 @@ get_header();
     </p>
 
     <a
-      href="https://2spq2i-f3.myshopify.com/checkouts/cn/Z2NwLXVzLWVhc3QxOjAxSlpYSlJYMjJFS1JIOVg5QzlQUFJKNjRF?preview_theme_id=180368081214"
+      href="https://acciones.invertirenacciones.digital/checkouts/cn/hWN19Gh2vvbn7Cs19H0fTKDa"
       class="audience2-cta"
       target="_blank" rel="noopener noreferrer"
       onclick="fbq('trackCustom','LP_ClickBuy');"
@@ -284,7 +284,7 @@ get_header();
     </div>
 
     <a
-      href="https://2spq2i-f3.myshopify.com/checkouts/..."
+      href="https://acciones.invertirenacciones.digital/checkouts/cn/hWN19Gh2vvbn7Cs19H0fTKDa"
       class="testimonials2-cta"
       target="_blank" rel="noopener noreferrer"
       onclick="fbq('trackCustom','LP_ClickBuy');"
@@ -337,7 +337,7 @@ get_header();
     </div>
 
     <a
-      href="https://2spq2i-f3.myshopify.com/checkouts/…"
+      href="https://acciones.invertirenacciones.digital/checkouts/cn/hWN19Gh2vvbn7Cs19H0fTKDa"
       class="confianza-cta"
       onclick="fbq('trackCustom','LP_ClickBuy');"
       target="_blank" rel="noopener noreferrer"
@@ -360,38 +360,34 @@ get_header();
 <!-- seccion Final  --> 
 
 <section class="final-cta">
-  <div class="final-cta__wrapper">
+  <div class="final-cta__inner">
 
-    <!-- TÍTULO PRINCIPAL -->
     <h2 class="final-cta__title">
       Estás a un clic de invertir<br>
       con claridad y seguridad
     </h2>
 
-    <!-- SUBTÍTULO -->
     <p class="final-cta__subtitle">
       No postergues más tu libertad financiera. Esta guía es el primer paso para empezar a invertir de forma simple, segura y sin depender de nadie.
     </p>
 
-    <!-- LISTA DE BENEFICIOS -->
     <ul class="final-cta__benefits">
       <li>
-        <img src="<?php echo get_template_directory_uri(); ?>/img/icon-check-green.png" alt="Garantía 7 días">
+        <img src="<?php echo get_template_directory_uri(); ?>/img/icon-check-green.png" alt="">
         <span>Garantía 7 días</span>
       </li>
       <li>
-        <img src="<?php echo get_template_directory_uri(); ?>/img/icon-book-blue.png" alt="Guía paso a paso">
+        <img src="<?php echo get_template_directory_uri(); ?>/img/icon-book-blue.png" alt="">
         <span>Guía paso a paso</span>
       </li>
       <li>
-        <img src="<?php echo get_template_directory_uri(); ?>/img/icon-people-blue.png" alt="+1.500 personas ya lo usan">
+        <img src="<?php echo get_template_directory_uri(); ?>/img/icon-people-blue.png" alt="">
         <span>+1.500 personas ya lo usan</span>
       </li>
     </ul>
 
-    <!-- BOTÓN DE ACCIÓN -->
     <a
-      href="https://2spq2i-f3.myshopify.com/checkouts/…"
+      href="https://acciones.invertirenacciones.digital/checkouts/cn/hWN19Gh2vvbn7Cs19H0fTKDa"
       class="final-cta__button"
       onclick="fbq('trackCustom','LP_ClickBuy');"
       target="_blank"
@@ -399,9 +395,9 @@ get_header();
     >
       Quiero acceder al eBook ahora
     </a>
-
   </div>
 </section>
+
 
 
 
