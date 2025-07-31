@@ -126,7 +126,7 @@ get_header();
 <section class="audience2-section">
   <div class="container audience2-container">
 
-    <h2 class="audience2-title">Este eBook es para vos?</h2>
+    <h2 class="audience2-title">Este Ebook es para vos si...</h2>
 
     <ul class="audience2-list">
       <li>
