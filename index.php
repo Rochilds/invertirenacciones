@@ -360,18 +360,21 @@ get_header();
 <!-- seccion Final  --> 
 
 <section class="final-cta">
-  <div class="final-cta__inner">
+  <div class="final-cta__wrapper">
 
+    <!-- TÍTULO PRINCIPAL -->
     <h2 class="final-cta__title">
       Estás a un clic de invertir<br>
       con claridad y seguridad
     </h2>
 
+    <!-- SUBTÍTULO -->
     <p class="final-cta__subtitle">
       No postergues más tu libertad financiera. Esta guía es el primer paso para empezar a invertir de forma simple, segura y sin depender de nadie.
     </p>
 
-    <ul class="final-cta__list">
+    <!-- LISTA DE BENEFICIOS -->
+    <ul class="final-cta__benefits">
       <li>
         <img src="<?php echo get_template_directory_uri(); ?>/img/icon-check-green.png" alt="Garantía 7 días">
         <span>Garantía 7 días</span>
@@ -386,18 +389,19 @@ get_header();
       </li>
     </ul>
 
+    <!-- BOTÓN DE ACCIÓN -->
     <a
       href="https://2spq2i-f3.myshopify.com/checkouts/…"
       class="final-cta__button"
       onclick="fbq('trackCustom','LP_ClickBuy');"
-      target="_blank" rel="noopener noreferrer"
+      target="_blank"
+      rel="noopener noreferrer"
     >
       Quiero acceder al eBook ahora
     </a>
 
   </div>
 </section>
-
 
 
 
