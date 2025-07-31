@@ -396,7 +396,40 @@ get_header();
       Quiero acceder al eBook ahora
     </a>
   </div>
-</section>
+</section> 
+
+<!-- FAQ -->
+  <section class="faq">
+    <div class="faq-container">
+      <div class="faq-img">
+        <img src="<?php echo get_template_directory_uri(); ?>/img/img-7.png" alt="Preguntas frecuentes">
+      </div>
+      <div class="faq-content">
+        <h2>PREGUNTAS FRECUENTES</h2>
+        <p><strong>¿Necesito experiencia previa para leer este ebook?</strong><br>
+        No. Está pensado para principiantes que quieren dar sus primeros pasos en el mundo de las inversiones.</p>
+        <p><strong>¿Qué voy a aprender exactamente?</strong><br>
+        Cómo invertir paso a paso: entender acciones, ETFs y cómo aplicar los principios de Warren Buffett de forma clara y sin tecnicismos.</p>
+        <p><strong>¿En qué formato se entrega?</strong><br>
+        El ebook se descarga en PDF al instante tras la compra.</p>
+        <p><strong>¿Lo puedo leer en celular?</strong><br>
+        Sí. Compatible con cualquier dispositivo.</p>
+        <p><strong>¿Cómo sé que el pago es seguro?</strong><br>
+        Usamos sistemas cifrados 100% seguros.</p>
+        <p><strong>¿Y si no me gusta?</strong><br>
+        Te devolvemos el dinero si no aporta valor. Tenés 7 días.</p>
+        <a
+          href="https://acciones.invertirenacciones.digital/checkouts/cn/hWN19Gh2vvbn7Cs19H0fTKDa"
+          class="cta-green"
+          target="_blank"
+          rel="noopener noreferrer" 
+          onclick="fbq('trackCustom', 'LP_ClickBuy');"
+        >
+          ACCEDER AHORA A MI EBOOK
+        </a>
+      </div>
+    </div>
+  </section>
 
 
 
