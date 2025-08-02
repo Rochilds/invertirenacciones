@@ -24,7 +24,7 @@ get_header();
       <small>personas ya lo descargaron</small>
     </div>
     <a
-      href="https://acciones.invertirenacciones.digital/checkouts/cn/hWN19Gh2vvbn7Cs19H0fTKDa"
+      href="https://pay.hotmart.com/G101126632I?checkoutMode=10&bid=1754161318278"
       class="hero-cta"
       target="_blank" rel="noopener noreferrer"
       onclick="fbq('trackCustom','LP_ClickBuy');"
@@ -187,7 +187,7 @@ get_header();
     </p>
 
     <a
-      href="https://acciones.invertirenacciones.digital/checkouts/cn/hWN19Gh2vvbn7Cs19H0fTKDa"
+      href="https://pay.hotmart.com/G101126632I?checkoutMode=10&bid=1754161318278"
       class="audience2-cta"
       target="_blank" rel="noopener noreferrer"
       onclick="fbq('trackCustom','LP_ClickBuy');"
@@ -284,7 +284,7 @@ get_header();
     </div>
 
     <a
-      href="https://acciones.invertirenacciones.digital/checkouts/cn/hWN19Gh2vvbn7Cs19H0fTKDa"
+      href="https://pay.hotmart.com/G101126632I?checkoutMode=10&bid=1754161318278"
       class="testimonials2-cta"
       target="_blank" rel="noopener noreferrer"
       onclick="fbq('trackCustom','LP_ClickBuy');"
@@ -337,7 +337,7 @@ get_header();
     </div>
 
     <a
-      href="https://acciones.invertirenacciones.digital/checkouts/cn/hWN19Gh2vvbn7Cs19H0fTKDa"
+      href="https://pay.hotmart.com/G101126632I?checkoutMode=10&bid=1754161318278"
       class="confianza-cta"
       onclick="fbq('trackCustom','LP_ClickBuy');"
       target="_blank" rel="noopener noreferrer"
@@ -387,7 +387,7 @@ get_header();
     </ul>
 
     <a
-      href="https://acciones.invertirenacciones.digital/checkouts/cn/hWN19Gh2vvbn7Cs19H0fTKDa"
+      href="https://pay.hotmart.com/G101126632I?checkoutMode=10&bid=1754161318278"
       class="final-cta__button"
       onclick="fbq('trackCustom','LP_ClickBuy');"
       target="_blank"
@@ -419,7 +419,7 @@ get_header();
         <p><strong>¿Y si no me gusta?</strong><br>
         Te devolvemos el dinero si no aporta valor. Tenés 7 días.</p>
         <a
-          href="https://acciones.invertirenacciones.digital/checkouts/cn/hWN19Gh2vvbn7Cs19H0fTKDa"
+          href="https://pay.hotmart.com/G101126632I?checkoutMode=10&bid=1754161318278"
           class="cta-green"
           target="_blank"
           rel="noopener noreferrer" 
