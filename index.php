@@ -27,7 +27,7 @@ get_header();
       href="https://pay.hotmart.com/G101126632I?checkoutMode=10&bid=1754161318278"
       class="hero-cta"
       target="_blank" rel="noopener noreferrer"
-      onclick="fbq('trackCustom','LP_ClickBuy');"
+      
     >
       QUIERO ACCEDER AL EBOOK AHORA
     </a>
@@ -190,7 +190,7 @@ get_header();
       href="https://pay.hotmart.com/G101126632I?checkoutMode=10&bid=1754161318278"
       class="audience2-cta"
       target="_blank" rel="noopener noreferrer"
-      onclick="fbq('trackCustom','LP_ClickBuy');"
+      
     >
       DESCARGA AHORA Y EMPiEZA HOY
     </a>
@@ -287,7 +287,7 @@ get_header();
       href="https://pay.hotmart.com/G101126632I?checkoutMode=10&bid=1754161318278"
       class="testimonials2-cta"
       target="_blank" rel="noopener noreferrer"
-      onclick="fbq('trackCustom','LP_ClickBuy');"
+      
     >
       QUIERO MI EBOOK AHORA
     </a>
@@ -389,7 +389,7 @@ get_header();
     <a
       href="https://pay.hotmart.com/G101126632I?checkoutMode=10&bid=1754161318278"
       class="final-cta__button"
-      onclick="fbq('trackCustom','LP_ClickBuy');"
+      
       target="_blank"
       rel="noopener noreferrer"
     >
@@ -423,7 +423,7 @@ get_header();
           class="cta-green"
           target="_blank"
           rel="noopener noreferrer" 
-          onclick="fbq('trackCustom', 'LP_ClickBuy');"
+          
         >
           ACCEDER AHORA A MI EBOOK
         </a>
