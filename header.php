@@ -61,15 +61,15 @@
           }
         ?>">
 
-  <script type="application/ld+json">
-    {
+<script type="application/ld+json">
+{
   "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "WebSite",
       "url": "https://invertirenacciones.digital/",
       "name": "Invertir en Acciones como Warren Buffet",
-      "description": "Descubre estrategias simples para multiplicar tu dinero. Con mi eBook “Cómo invertir en Wall Street” dominas el mercado y das el primer paso hoy mismo.",
+      "description": "Descubre estrategias simples para multiplicar tu dinero. Con mi eBook \"Cómo invertir en Wall Street\" dominas el mercado y das el primer paso hoy mismo.",
       "publisher": {
         "@type": "Organization",
         "name": "Invertir en Acciones como Warren Buffet",
@@ -87,7 +87,7 @@
         "name": "Santiago R.T"
       },
       "image": "https://invertirenacciones.digital/wp-content/uploads/2025/07/img-1.png",
-      "description": "Descubre estrategias simples para multiplicar tu dinero. Con mi eBook “Cómo invertir en Wall Street” dominas el mercado y das el primer paso hoy mismo.",
+      "description": "Descubre estrategias simples para multiplicar tu dinero. Con mi eBook \"Cómo invertir en Wall Street\" dominas el mercado y das el primer paso hoy mismo.",
       "publisher": {
         "@type": "Organization",
         "name": "Invertir en Acciones como Warren Buffet"
@@ -108,6 +108,8 @@
     }
   ]
 }
+</script>
+
 
 <!-- Meta Pixel Code -->
 <script>
@@ -126,6 +128,7 @@
   <img height="1" width="1" style="display:none"
   src="https://www.facebook.com/tr?id=TU_ID_PIXEL&ev=PageView&noscript=1"/>
 </noscript>
+
 
 
 
