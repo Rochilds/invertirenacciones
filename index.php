@@ -153,7 +153,7 @@ get_header();
   </div>
 </section> 
 
-<!-- Este ebboo es para vos -->
+<!-- Este ebook es para vos -->
 
 <section class="audience2-section">
   <div class="container audience2-container">
@@ -164,8 +164,13 @@ get_header();
       <li>
         <span class="audience2-icon">
           <img
-            src="<?php echo get_template_directory_uri(); ?>/img/icon-check-circle.png"
-            alt="Check"
+  src="https://invertirenacciones.digital/wp-content/themes/invertirenacciones/img/icon-check-circle.png"
+  alt="Check"
+  width="64" height="64"
+  loading="lazy"
+  decoding="async"
+  data-no-lazy="1"
+  data-no-optimize="1"
           >
         </span>
         Si querés que tu plata trabaje por vos, pero no sabés por dónde empezar
@@ -173,8 +178,13 @@ get_header();
       <li>
         <span class="audience2-icon">
           <img
-            src="<?php echo get_template_directory_uri(); ?>/img/icon-check-circle.png"
-            alt="Check"
+  src="https://invertirenacciones.digital/wp-content/themes/invertirenacciones/img/icon-check-circle.png"
+  alt="Check"
+  width="64" height="64"
+  loading="lazy"
+  decoding="async"
+  data-no-lazy="1"
+  data-no-optimize="1"
           >
         </span>
         Si te gustaría invertir como los grandes, pero con una guía clara y en español.
@@ -182,8 +192,13 @@ get_header();
       <li>
         <span class="audience2-icon">
           <img
-            src="<?php echo get_template_directory_uri(); ?>/img/icon-check-circle.png"
-            alt="Check"
+  src="https://invertirenacciones.digital/wp-content/themes/invertirenacciones/img/icon-check-circle.png"
+  alt="Check"
+  width="64" height="64"
+  loading="lazy"
+  decoding="async"
+  data-no-lazy="1"
+  data-no-optimize="1"
           >
         </span>
         Si buscás libertad financiera sin caer en promesas vacías.
@@ -191,8 +206,13 @@ get_header();
       <li>
         <span class="audience2-icon">
           <img
-            src="<?php echo get_template_directory_uri(); ?>/img/icon-check-circle.png"
-            alt="Check"
+  src="https://invertirenacciones.digital/wp-content/themes/invertirenacciones/img/icon-check-circle.png"
+  alt="Check"
+  width="64" height="64"
+  loading="lazy"
+  decoding="async"
+  data-no-lazy="1"
+  data-no-optimize="1"
           >
         </span>
         Si te frena el miedo, la confusión o la sobreinformación.
@@ -200,8 +220,13 @@ get_header();
       <li>
         <span class="audience2-icon">
           <img
-            src="<?php echo get_template_directory_uri(); ?>/img/icon-check-circle.png"
-            alt="Check"
+  src="https://invertirenacciones.digital/wp-content/themes/invertirenacciones/img/icon-check-circle.png"
+  alt="Check"
+  width="64" height="64"
+  loading="lazy"
+  decoding="async"
+  data-no-lazy="1"
+  data-no-optimize="1"
           >
         </span>
         Si querés aprender a invertir paso a paso, desde cero.
@@ -210,9 +235,14 @@ get_header();
 
     <p class="audience2-note">
       <span class="audience2-lightbulb">
-        <img
-          src="<?php echo get_template_directory_uri(); ?>/img/icon-lightbulb.png"
-          alt="Idea"
+       <img
+  src="https://invertirenacciones.digital/wp-content/themes/invertirenacciones/img/icon-lightbulb.png"
+  alt="Idea"
+  width="64" height="64"
+  loading="lazy"
+  decoding="async"
+  data-no-lazy="1"
+  data-no-optimize="1"
         >
       </span>
       Miles de personas ya lo descargaron. ¿Y vos?
