@@ -19,10 +19,14 @@
       rel="noopener noreferrer"
     >
       <img
-        src="<?php echo get_template_directory_uri(); ?>/img/img-whatsapp.png"
-        alt="WhatsApp"
-        class="whatsapp-icon"
-        loading="lazy"
+  src="https://invertirenacciones.digital/wp-content/themes/invertirenacciones/img/img-whatsapp.png"
+  alt="WhatsApp"
+  class="whatsapp-icon"
+  width="64" height="64"
+  loading="lazy"
+  decoding="async"
+  data-no-lazy="1"
+  data-no-optimize="1"
       >
       Contactar por WhatsApp
     </a>
@@ -34,12 +38,15 @@
         rel="noopener noreferrer"
       >
         <img
-          src="<?php echo get_template_directory_uri(); ?>/img/img-fb.png"
-          alt="Facebook"
-          width="32"
-          height="32"
-          loading="lazy"
-        >
+  src="https://invertirenacciones.digital/wp-content/themes/invertirenacciones/img/img-fb.png"
+  alt="Facebook"
+  width="32"
+  height="32"
+  loading="lazy"
+  decoding="async"
+  data-no-lazy="1"
+  data-no-optimize="1"
+              >
       </a>
       <a
         href="https://www.instagram.com/finanzasinteligente7/"
@@ -47,11 +54,14 @@
         rel="noopener noreferrer"
       >
         <img
-          src="<?php echo get_template_directory_uri(); ?>/img/img-ig.png"
-          alt="Instagram"
-          width="32"
-          height="32"
-          loading="lazy"
+  src="https://invertirenacciones.digital/wp-content/themes/invertirenacciones/img/img-ig.png"
+  alt="Instagram"
+  width="32"
+  height="32"
+  loading="lazy"
+  decoding="async"
+  data-no-lazy="1"
+  data-no-optimize="1"
         >
       </a>
     </div>

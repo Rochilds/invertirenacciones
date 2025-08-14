@@ -276,18 +276,28 @@ get_header();
       <div class="testimonial2-card">
         <div class="testimonial2-quote">
           <img
-            src="<?php echo get_template_directory_uri(); ?>/img/icon-quote.png"
-            alt="Comillas"
+  src="https://invertirenacciones.digital/wp-content/themes/invertirenacciones/img/icon-quote.png"
+  alt="Comillas"
+  width="64" height="64"
+  loading="lazy"
+  decoding="async"
+  data-no-lazy="1"
+  data-no-optimize="1"
           >
         </div>
         <p class="testimonial2-text">
           “Este ebook me cambió totalmente la visión. Pensaba que invertir era solo para ricos. Ahora entiendo cómo hacerlo desde cero.”
         </p>
         <div class="testimonial2-author">
-          <img
-            src="<?php echo get_template_directory_uri(); ?>/img/img-8.jpeg"
-            alt="Carolina M."
-            class="testimonial2-photo"
+         <img
+  src="https://invertirenacciones.digital/wp-content/themes/invertirenacciones/img/img-8.jpeg"
+  alt="Carolina M."
+  class="testimonial2-photo"
+  width="300" height="300"
+  loading="lazy"
+  decoding="async"
+  data-no-lazy="1"
+  data-no-optimize="1"
           >
           <div>
             <p class="testimonial2-name">Carolina M.</p>
@@ -300,8 +310,13 @@ get_header();
       <div class="testimonial2-card">
         <div class="testimonial2-quote">
           <img
-            src="<?php echo get_template_directory_uri(); ?>/img/icon-quote.png"
-            alt="Comillas"
+  src="https://invertirenacciones.digital/wp-content/themes/invertirenacciones/img/icon-quote.png"
+  alt="Comillas"
+  width="64" height="64"
+  loading="lazy"
+  decoding="async"
+  data-no-lazy="1"
+  data-no-optimize="1"
           >
         </div>
         <p class="testimonial2-text">
@@ -309,9 +324,14 @@ get_header();
         </p>
         <div class="testimonial2-author">
           <img
-            src="<?php echo get_template_directory_uri(); ?>/img/img-9.jpeg"
-            alt="Juan P."
-            class="testimonial2-photo"
+  src="https://invertirenacciones.digital/wp-content/themes/invertirenacciones/img/img-9.jpeg"
+  alt="Juan P."
+  class="testimonial2-photo"
+  width="300" height="300"
+  loading="lazy"
+  decoding="async"
+  data-no-lazy="1"
+  data-no-optimize="1"
           >
           <div>
             <p class="testimonial2-name">Juan P.</p>
@@ -324,8 +344,13 @@ get_header();
       <div class="testimonial2-card">
         <div class="testimonial2-quote">
           <img
-            src="<?php echo get_template_directory_uri(); ?>/img/icon-quote.png"
-            alt="Comillas"
+  src="https://invertirenacciones.digital/wp-content/themes/invertirenacciones/img/icon-quote.png"
+  alt="Comillas"
+  width="64" height="64"
+  loading="lazy"
+  decoding="async"
+  data-no-lazy="1"
+  data-no-optimize="1"
           >
         </div>
         <p class="testimonial2-text">
@@ -333,9 +358,14 @@ get_header();
         </p>
         <div class="testimonial2-author">
           <img
-            src="<?php echo get_template_directory_uri(); ?>/img/img-10.jpeg"
-            alt="Florencia R."
-            class="testimonial2-photo"
+  src="https://invertirenacciones.digital/wp-content/themes/invertirenacciones/img/img-10.jpeg"
+  alt="Florencia R."
+  class="testimonial2-photo"
+  width="300" height="300"
+  loading="lazy"
+  decoding="async"
+  data-no-lazy="1"
+  data-no-optimize="1"
           >
           <div>
             <p class="testimonial2-name">Florencia R.</p>
