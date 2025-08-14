@@ -34,9 +34,14 @@ get_header();
   </div>
   <div class="hero-image">
     <img
-      src="<?php echo get_template_directory_uri(); ?>/img/hero-phone.png"
-      alt="Ebook Cómo invertir en Wall Street"
-      loading="lazy"
+  src="<?php echo get_template_directory_uri(); ?>/img/hero-phone.png"
+  alt="Ebook Cómo invertir en Wall Street"
+  width="480" height="640"
+  loading="eager"
+  fetchpriority="high"
+  decoding="async"
+  data-no-lazy="1" data-no-optimize="1"
+
     >
   </div>
 </section> 
