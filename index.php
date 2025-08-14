@@ -105,9 +105,12 @@ get_header();
       <!-- Imagen lateral -->
       <div class="benefits-image">
         <img
-          src="<?php echo get_template_directory_uri(); ?>/img/hero-phone2.png"
-          alt="Portada Cómo empezar a invertir en acciones"
-          loading="lazy"
+  src="https://invertirenacciones.digital/wp-content/themes/invertirenacciones/img/hero-phone2.png"
+  alt="Portada Cómo empezar a invertir en acciones"
+  width="480" height="640"
+  loading="lazy"
+  decoding="async"
+  data-no-lazy="1" data-no-optimize="1"
         >
       </div>
     </div>
