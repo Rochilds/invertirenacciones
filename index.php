@@ -59,8 +59,12 @@ get_header();
         <li>
           <span class="benefit-icon">
             <img
-              src="<?php echo get_template_directory_uri(); ?>/img/icon-mindset.png"
-              alt="Mentalidad Buffett"
+  src="https://invertirenacciones.digital/wp-content/themes/invertirenacciones/img/icon-mindset.png"
+  alt="Mentalidad Buffett"
+  width="128" height="128"
+  loading="lazy"
+  decoding="async"
+  data-no-lazy="1" data-no-optimize="1"
             >
           </span>
           <p class="benefit-text">
@@ -70,8 +74,13 @@ get_header();
         <li>
           <span class="benefit-icon">
             <img
-              src="<?php echo get_template_directory_uri(); ?>/img/icon-strategy.png"
-              alt="Estrategia de detección"
+  src="https://invertirenacciones.digital/wp-content/themes/invertirenacciones/img/icon-strategy.png"
+  alt="Estrategia de detección"
+  width="128" height="128"
+  loading="lazy"
+  decoding="async"
+  data-no-lazy="1"
+  data-no-optimize="1"
             >
           </span>
           <p class="benefit-text">
@@ -81,8 +90,13 @@ get_header();
         <li>
           <span class="benefit-icon">
             <img
-              src="<?php echo get_template_directory_uri(); ?>/img/icon-emotions.png"
-              alt="Errores emocionales"
+  src="https://invertirenacciones.digital/wp-content/themes/invertirenacciones/img/icon-emotions.png"
+  alt="Errores emocionales"
+  width="128" height="128"
+  loading="lazy"
+  decoding="async"
+  data-no-lazy="1"
+  data-no-optimize="1"
             >
           </span>
           <p class="benefit-text">
@@ -92,8 +106,13 @@ get_header();
         <li>
           <span class="benefit-icon">
             <img
-              src="<?php echo get_template_directory_uri(); ?>/img/icon-crisis.png"
-              alt="Aprovechar crisis"
+  src="https://invertirenacciones.digital/wp-content/themes/invertirenacciones/img/icon-crisis.png"
+  alt="Aprovechar crisis"
+  width="128" height="128"
+  loading="lazy"
+  decoding="async"
+  data-no-lazy="1"
+  data-no-optimize="1"
             >
           </span>
           <p class="benefit-text">
@@ -119,8 +138,13 @@ get_header();
     <div class="benefits-badge">
       <span class="badge-icon">
         <img
-          src="<?php echo get_template_directory_uri(); ?>/img/icon-check.png"
-          alt="Check"
+  src="https://invertirenacciones.digital/wp-content/themes/invertirenacciones/img/icon-check.png"
+  alt="Check"
+  width="64" height="64"
+  loading="lazy"
+  decoding="async"
+  data-no-lazy="1"
+  data-no-optimize="1"
         >
       </span>
       <span class="badge-text">+1.500 personas ya lo descargaron</span>
